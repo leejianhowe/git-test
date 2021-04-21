@@ -1,5 +1,5 @@
-function feature2(){
-    console.log('feature 2')
+function feature(){
+    console.log('feature')
 }
 
-feature2()
+feature()
