@@ -5,3 +5,7 @@ function helloworld() {
 function byebye(){
   console.log('byebye')
 }
+
+function sum(x,y){
+  return x + y
+}
